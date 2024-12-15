@@ -1,0 +1,1 @@
+./redir pid is 16702. forked 0. Parent Exiting
